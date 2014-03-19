@@ -1,5 +1,5 @@
 {
-  "name": "is",
+  "name": "git://github.com/roderickObrist/is.git",
   "version": "1.0.0",
   "description": "Type checking library",
   "main": "is.js",
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/roderickObrist/is/issues"
   },
-  "homepage": "https://github.com/roderickObrist/is", 
-  "dependencies": {
-    "public": "git://github.com/roderickObrist/is.git"
-  }
+  "homepage": "https://github.com/roderickObrist/is"
 }
