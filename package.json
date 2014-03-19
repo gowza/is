@@ -1,5 +1,5 @@
 {
-  "name": "git://github.com/roderickObrist/is.git",
+  "name": "is",
   "version": "1.0.0",
   "description": "Type checking library",
   "main": "is.js",
