@@ -1,0 +1,23 @@
+{
+  "name": "is",
+  "version": "1.0.0",
+  "description": "Type checking library",
+  "main": "is.js",
+  "scripts": {
+    "test": "node is"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roderickObrist/is"
+  },
+  "keywords": [
+    "type",
+    "check"
+  ],
+  "author": "Roderick Obrist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roderickObrist/is/issues"
+  },
+  "homepage": "https://github.com/roderickObrist/is"
+}
