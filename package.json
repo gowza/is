@@ -19,8 +19,8 @@
   "bugs": {
     "url": "https://github.com/roderickObrist/is/issues"
   },
-  "homepage": "https://github.com/roderickObrist/is",
-  "dependancies": {
-    "is": "git://github.com/roderickObrist/is.git"
+  "homepage": "https://github.com/roderickObrist/is", 
+  "dependencies": {
+    "public": "git://github.com/roderickObrist/is.git"
   }
 }
