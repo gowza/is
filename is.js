@@ -464,6 +464,7 @@
    */
   is.func = function func(value) {
     return (value instanceof Function) ||
+      (typeof value === "function") ||
       (Object.prototype.toString.call(value) === "[object Function]") ||
       /* FOR IE8 USE THE SLOWER METHOD */
       is.nativeFunc(value);
