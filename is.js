@@ -692,7 +692,7 @@
    * isPrimative - *bool* A boolean indicating if the value cannot store properties
    */
   is.primative = function primative(value) {
-    if (is(value, null, undefined)) {
+    if (is(value, null, undefined, true, false)) {
       return true;
     }
 
