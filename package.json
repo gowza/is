@@ -1,0 +1,17 @@
+{
+  "name": "is",
+  "version": "1.0.0",
+  "description": "A terse and extensive type checking library.",
+  "main": "is.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roderickObrist/is.git"
+  },
+  "author": "Roderick Obrist",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/roderickObrist/is/issues"
+  },
+  "homepage": "https://github.com/roderickObrist/is#readme"
+}
